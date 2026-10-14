@@ -5,6 +5,8 @@ Plan your character build right in the browser — no installation, no server, w
 
 **▶ Open the simulator: https://game-simulator.github.io/bloodborne/**
 
+[![Bloodborne Stat Simulator screenshot](screenshot.png)](https://game-simulator.github.io/bloodborne/)
+
 ## Features
 
 - **Character stats** — origin, level, Vitality / Endurance / Strength / Skill / Bloodtinge / Arcane
