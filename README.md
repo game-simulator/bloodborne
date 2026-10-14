@@ -31,7 +31,7 @@ Plan your character build right in the browser — no installation, no server, w
 
 ## Desktop version
 
-The original Windows desktop app (Korean / English) is available here: http://bit.ly/2FgXYJP
+The original Windows desktop app (Korean / English) is available on the **[Releases page](https://github.com/game-simulator/bloodborne/releases/latest)** — download the `.zip` file under *Assets*.
 
 ## About this repository
 
