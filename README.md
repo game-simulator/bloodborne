@@ -14,10 +14,20 @@ Plan your character build right in the browser — no installation, no server, w
 - **Weapons** — two right-hand and two left-hand slots, Normal / Uncanny / Lost variants, scaling grades and stat requirements
 - **Blood gems** — pick from the gem list (searchable) or enter custom values, with chalice glyphs for farming
 - **Caryll runes** — three rune slots and an Oath rune
-- **Level Calculator** — echoes needed to level up, and an opponent's level from looted echoes
+- **Level Calculator** — echoes needed to level up, an opponent's level from looted echoes, and multiplayer level ranges
 - **Save / Load** — `.bss` files compatible with the desktop version
 - **Share links** — copy a link that restores the whole build
 - **Korean / English** — switch with the KOR / ENG buttons (or add `?lang=en` / `?lang=ko` to the address)
+
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%"><a href="screenshot-weapon.png"><img src="screenshot-weapon.png" alt="Weapon selection"></a><br><sub>Weapon selection — scaling, requirements and where to get Normal / Uncanny / Lost versions</sub></td>
+    <td align="center" valign="top" width="33%"><a href="screenshot-gem.png"><img src="screenshot-gem.png" alt="Blood gem selection"></a><br><sub>Blood gem selection — searchable list with chalice glyphs for farming</sub></td>
+    <td align="center" valign="top" width="33%"><a href="screenshot-level.png"><img src="screenshot-level.png" alt="Level Calculator"></a><br><sub>Level Calculator — echoes needed, opponent's level and multiplayer level ranges</sub></td>
+  </tr>
+</table>
 
 ## Desktop version
 
